@@ -26,3 +26,4 @@ Conversion of integrated optical depth to column densities ($\mathrm{molecules\ 
 Comprehensive Diagnostic Outputs: Exports 2D FITS maps, publication-ready PNGs, 
 pixel-by-pixel multi-page PDF diagnostics, and tabular CSV data with World Coordinate System (WCS) celestial positions.
 
+Added correction factor based on simulation. 
